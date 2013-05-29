@@ -109,7 +109,7 @@
 	<p>
 		The Arduino looks <a href="/riley/arduino/livecar/v2/tasks_to_arduino.php">here</a> for tasks and deletes them when completed.<br />
 		Instructions are given in the form L-motor:R-motor:Duration.<br />
-		<a href="livestream_car.pde">This script</a> written in Processing is run on a laptop connected to<br />
+		<a href="../livestream_car.pde">This script</a> written in Processing is run on a laptop connected to<br />
 		the Arduino which feeds these instructions to the robot.<br />
 		<span id="end">The end result is a car that you can drive on the web!</span>
 	</p>
