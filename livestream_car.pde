@@ -12,11 +12,12 @@ int lmotor_cur;
 
 int dur;
 
-//Pins
-int motor1_1=5;
-int motor1_2=3;
-int motor2_1=6;
-int motor2_2=11;
+//Configure these pins:
+int motor1_1=5;  //Motor 1
+int motor1_2=3;  //Motor 1
+
+int motor2_1=6;  //Motor 2
+int motor2_2=11; //Motor 2
 
 void setup() {
   println(Arduino.list());
