@@ -7,6 +7,7 @@ Everything in public_html should be placed in the public_html folder on your web
 
 
 You WILL need to edit the livestream_car.pde file to ensure that:
+
 1. The script is looking at the correct COM port for the Arduino (line 24)
 2. The script has the proper pins on the Arduino to use for motors (line 16-20)
 3. The script is looking at the proper webserver (line 34)
