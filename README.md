@@ -16,9 +16,6 @@ You WILL need to edit the livestream_car.pde file to ensure that:
 The Arduino car is built using an H-Bridge and two motors, a right and a left, each of which requires two PWMs through the H-Bridge. The Arduino itself should have the StandardFirmata sketch written on it to allow the Processing script to communicate with it.
 
 This was originally done with an Arduino Uno, but should have no problem when used with another Arduino (but may require additional configuration in livestream_car.pde)
-<<<<<<< HEAD
 
 A working install of the server-side app can be seen here:
 http://shsbio.net/riley/arduino/livecar/v2/
-=======
->>>>>>> 64c1a81c9b4eea38cfe31ad908ae506e70fcd2d5
